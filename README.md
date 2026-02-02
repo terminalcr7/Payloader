@@ -9,7 +9,7 @@
 
 ---
 
-## ⚠️ LEGAL DISCLAIMER
+## LEGAL DISCLAIMER
 
 **THIS TOOL IS FOR EDUCATIONAL PURPOSES AND AUTHORIZED SECURITY TESTING ONLY.**
 
@@ -18,9 +18,9 @@
 - Comply with all applicable laws and regulations in your jurisdiction
 - Maintain proper documentation and authorization for all testing activities
 
-## 🚀 Features
+##  Features
 
-### 🔥 Core Capabilities
+### Core Capabilities
 - **Real Meterpreter Payload Generation** - Uses msfvenom for actual payloads
 - **Multiple Payload Types** - EXE, DLL, PowerShell, Shellcode, Android APK
 - **Advanced Evasion Techniques** - AMSI/ETW bypass, anti-analysis, encryption
@@ -28,13 +28,13 @@
 - **Payload History Tracking** - Keep track of generated payloads
 - **Built-in Testing Tools** - Verify components and configurations
 
-### 🛡️ Evasion Levels
+###  Evasion Levels
 - **Basic** - Simple obfuscation and encoding
 - **Intermediate** - AMSI/ETW bypass techniques
 - **Advanced** - Multiple evasion layers and anti-analysis
 - **Extreme** - Maximum stealth with custom techniques
 
-### 📦 Supported Formats
+###  Supported Formats
 | Format | Description | Platform |
 |--------|-------------|----------|
 | `.exe` | Windows Executable | Windows |
@@ -45,7 +45,7 @@
 | `.elf` | Linux Executable | Linux |
 | `.py`  | Python Script | Multi-platform |
 
-## 📋 Requirements
+##  Requirements
 
 ### System Requirements
 - **Operating System**: Kali Linux or any Linux with msfvenom
