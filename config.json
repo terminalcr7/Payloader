@@ -1,0 +1,9 @@
+{
+    "default_lhost": "192.168.1.100",
+    "default_lport": 4444,
+    "default_evasion": "advanced",
+    "default_iterations": 3,
+    "output_directory": "outputs",
+    "log_level": "INFO",
+    "enable_colors": true
+}
